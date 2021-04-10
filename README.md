@@ -1,3 +1,3 @@
-# Text-Editor
+Hi!
 
-This is the worst text editor in the world and has been made using Python standard libraries and _**"Standard Libraries Only"**_
+This is my first attempt at making any GUI application using my language of choice i.e. Python using the standard libraries only.
